@@ -1,0 +1,23 @@
+
+
+.div-one{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    position: static;
+}
+
+
+.div-two{
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    position: static;
+}
+
+.div-three{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: static;
+}
